@@ -9,6 +9,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/128535458/)**
 <!-- run online end -->
 
+![Grid View - Confirmation message](grid-delete-confirmation.png)
 
 In this example, the [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control contains a custom **Delete** button. 
 
