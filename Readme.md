@@ -5,9 +5,6 @@
 <!-- default badges end -->
 # GridView for Web Forms - How to use ASPxPopupControl to show a confirmation dialog
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128535458/)**
-<!-- run online end -->
 
 ![Grid View - Confirmation message](grid-delete-confirmation.png)
 
